@@ -125,7 +125,7 @@ details > p {
 @media (min-width: 64em) {
 
     details > p {
-        width: 27em;
+        width: 27eem;
     }
 
     .card-container {
@@ -163,7 +163,9 @@ details > p {
         width: 60em;
         min-height: 100%;
         margin-right: 5rem;
+        margin-bottom: 1rem;
         justify-content: center;
+
     }
 
     .heading {
