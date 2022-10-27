@@ -125,7 +125,7 @@ details > p {
 @media (min-width: 64em) {
 
     details > p {
-        width: 27eem;
+        width: 27em;
     }
 
     .card-container {
